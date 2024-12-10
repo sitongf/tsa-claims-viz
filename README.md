@@ -2,6 +2,8 @@
 
 Interactive visualization of TSA claims data using Flask and Plotly.
 
+You can access the app via: https://sitongf.pythonanywhere.com/
+
 ## Setup
 1. Install requirements:
 ```pip install -r requirements.txt```
